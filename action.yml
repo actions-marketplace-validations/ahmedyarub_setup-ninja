@@ -1,4 +1,4 @@
-name: 'Setup Ninja'
+name: 'Setup Ninja2'
 description: 'Setup specific version of Ninja build tool and add it to PATH'
 author: 'Ashutosh Varma'
 inputs:
