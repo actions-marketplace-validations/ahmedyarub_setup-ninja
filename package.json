@@ -1,6 +1,6 @@
 {
-  "name": "setup-ninja",
-  "version": "0.0.2",
+  "name": "setup-ninja2",
+  "version": "0.0.3",
   "private": true,
   "description": "Github action to setup ninja build tool",
   "main": "lib/main.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashutoshvarma/setup-ninja.git"
+    "url": "git+https://github.com/ahmedyarub/setup-ninja.git"
   },
   "keywords": [
     "actions",
